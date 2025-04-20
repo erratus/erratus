@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a dedicated third-year **Computer Science** student at MIT-WPU with hands-on experience in web development, AI, and full-stack applications. I'm passionate about solving real-world problems with smart tech solutions.
+I'm a dedicated third-year **Computer Science** student at MIT-WPU with practical  experience in web development, AI, and full-stack applications. I'm passionate about solving real-world problems with smart tech solutions.
 
 ---
 
