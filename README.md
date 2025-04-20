@@ -1,4 +1,4 @@
-# 👨‍💻 SuryaBhaas Karmakar
+# 👨‍💻 Suryabhaas Karmakar
 
 [![GitHub](https://img.shields.io/badge/GitHub-erratus-black?logo=github)](https://github.com/erratus)
 [![Email](https://img.shields.io/badge/Email-suryabhaas44@gmail.com-red?logo=gmail)](mailto:suryabhaas44@gmail.com)
