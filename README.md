@@ -1,7 +1,7 @@
 # Hi there, I'm Suryabhaas Karmakar! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%2F+Web+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%2F+Web+Developer;Tech+Learner" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -69,20 +69,26 @@ MIT-WPU, Pune (2022–2026)
 - 📚 Strengthening core **CS fundamentals**
 
 ---
+## 📊 GitHub Stats
 
-## 🧠 Projects & Research
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xeen76&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
 
-Coming soon! Actively working on computer vision research and a few stealth-mode web apps 👀
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xeen76&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeen76&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
-
 ## 🤝 Let's Connect!
 
 I'm always open to collaborating on meaningful tech projects, research, and open-source. Let's build something great!
 
 <div align="center">
-
-> _“Keep building. Stay curious. Ship often.”_
 
 ⭐ **If you like my work, star my repositories — it helps a lot!** ⭐
 
