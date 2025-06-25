@@ -1,4 +1,4 @@
-# Hi there, I'm Suryabhaas Karmakar! 👋
+# Suryabhaas Karmakar! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+%2F+Web+Developer;Tech+Learner" alt="Typing SVG" />
