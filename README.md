@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-erratus-black?style=for-the-badge&logo=github)](https://github.com/erratus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryabhaas-karmakar-9791b5364/)
 [![Email](https://img.shields.io/badge/Email-suryabhaas44@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryabhaas44@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Pune,_India-orange?style=for-the-badge&logo=google-maps)](https://maps.google.com/?q=Pune)
 
